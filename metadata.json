@@ -1,0 +1,7 @@
+{
+  "name": "Workly AI CV Builder",
+  "description": "A sophisticated AI-powered European-style CV generator for Workly candidates, featuring automated content optimization and cover letter generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
